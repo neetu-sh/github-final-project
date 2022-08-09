@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Neetu Sharawat
+   # neetu-sh (Neetu Sharawat)
 
    # Input:
    # p, principal amount
